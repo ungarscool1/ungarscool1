@@ -1,9 +1,6 @@
 # Hi there 👋
 
 I'm Léo and i'm an Epitech student in 2nd years.
-
-https://github-readme-stats.vercel.app/api/?username=ungarscool1&count_private=true&show_icons=true&theme=dark
-
 [![Ungarscool1's github stats](https://github-readme-stats.vercel.app/api/?username=ungarscool1&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌱 I’m currently learning
