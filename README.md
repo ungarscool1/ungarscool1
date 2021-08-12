@@ -1,25 +1,22 @@
 # Hi there 👋
 
-I'm Léo and i'm an Epitech student in 2nd years.
+I'm Léo and I'm a student at Epitech.
+
+## Languages
+![Java](https://github.com/ungarscool1/ungarscool1/raw/master/images/java.png)
+![C](https://github.com/ungarscool1/ungarscool1/raw/master/images/c.png)
+
+### 🌱 I’m currently learning
+![C++](https://github.com/ungarscool1/ungarscool1/raw/master/images/cpp.png)
+![NodeJS](https://github.com/ungarscool1/ungarscool1/raw/master/images/nodejs.png)
+
+## 📫 How to reach me
+[![Website](https://github.com/ungarscool1/ungarscool1/raw/master/images/web.png)](https://legodard.fr)
+[![LinkedIn](https://github.com/ungarscool1/ungarscool1/raw/master/images/linkedin.png)](https://www.linkedin.com/in/l%C3%A9o-godard/)
+[![Twitter](https://github.com/ungarscool1/ungarscool1/raw/master/images/twitter.png)](https://twitter.com/ungarscool1)
+
 
 [![Ungarscool1's github stats](https://github-readme-stats.vercel.app/api/?username=ungarscool1&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🌱 I’m currently learning
-
-I'm currently learning C, CPP, NodeJs, Java and PHP
-
-## 📫 How to reach me
-
-<a href="https://twitter.com/ungarscool1" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Ungarscool1%233280-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-
-<!--
-**ungarscool1/ungarscool1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Credit
+<div>Java icon made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
