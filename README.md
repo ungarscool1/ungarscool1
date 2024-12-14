@@ -1,5 +1,5 @@
 # 💫 About Me:
-Epitech student who loves learn new things.
+A freshly graduated SRE who loves making new things and learn.
 
 
 ## 🌐 Socials:
